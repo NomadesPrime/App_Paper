@@ -4,11 +4,11 @@ const MeuCartao = () => {
     return(
         <Card>
             <Card.Title 
-                title={"Meu Cartão"} 
-                subtitle={"Dale rapaiz"}
+                title={"Foto Gallery"} 
+                subtitle={"Tire uma foto sua"}
             />
             <Card.Content>
-                <Title>Conheça legals</Title>
+                <Title>AGORA</Title>
             </Card.Content>
         </Card>
     )
